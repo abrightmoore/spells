@@ -1,0 +1,111 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -1, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -2, 
+                                0, 
+                                -2
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                1, 
+                                0, 
+                                -4
+                            ], 
+                            "size": [
+                                2, 
+                                2, 
+                                2
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                2, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                3, 
+                                3, 
+                                3
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -5, 
+                                0, 
+                                2
+                            ], 
+                            "size": [
+                                3, 
+                                3, 
+                                3
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "bone", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.twf_geo_g", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 1.5, 
+                "visible_bounds_offset": [
+                    0, 
+                    0.25, 
+                    0
+                ], 
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

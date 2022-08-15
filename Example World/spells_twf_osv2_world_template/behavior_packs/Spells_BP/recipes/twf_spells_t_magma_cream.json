@@ -1,0 +1,36 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_magma_cream_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_g"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:magma_cream"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "twf:spells_4plus4"
+        }, 
+        "key": {
+            "A": {
+                "item": "twf:spells_4"
+            }, 
+            "B": {
+                "item": "twf:spells_4"
+            }, 
+            "P": {
+                "item": "twf:spells_plus"
+            }
+        }, 
+        "pattern": [
+            "APB"
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:spells_8"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

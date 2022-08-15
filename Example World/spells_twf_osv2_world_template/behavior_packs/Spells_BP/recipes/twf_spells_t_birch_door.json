@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_birch_door_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:birch_door"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

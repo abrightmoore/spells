@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tnt_spells"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:spells_upper_t"
+            },
+            {
+                "count": 1, 
+                "item": "twf:spells_upper_n"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "minecraft:tnt"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_raw_iron_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:raw_iron"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

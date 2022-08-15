@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10", 
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "spells_underscore_item", 
+            "minecraft:render_offsets": "tools"
+        }, 
+        "description": {
+            "category": "Nature", 
+            "identifier": "twf:spells_underscore"
+        }
+    }
+}

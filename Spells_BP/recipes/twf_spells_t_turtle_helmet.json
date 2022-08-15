@@ -1,0 +1,40 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_turtle_helmet_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_u"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:turtle_helmet"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

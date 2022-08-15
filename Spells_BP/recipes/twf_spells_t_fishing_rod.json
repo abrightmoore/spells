@@ -1,0 +1,44 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_fishing_rod_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_g"
+            }, 
+            {
+                "item": "twf:spells_lower_f"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:fishing_rod"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

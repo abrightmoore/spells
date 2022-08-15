@@ -1,0 +1,33 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_twf_tentacle_a.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_twf_tentacle_a"
+            }, 
+            "identifier": "twf:twf_tentacle_a", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {
+                "animate": [ 
+                    { "base_pose": "!query.has_rider"
+                    }
+                ]
+            }, 
+            "spawn_egg": {
+                "base_color": "#8315E7", 
+                "overlay_color": "#523C9D"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_twf_tentacle_a"
+            }
+        }
+    }
+}

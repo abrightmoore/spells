@@ -1,0 +1,48 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_warped_pressure_plate_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_u"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:warped_planks"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:warped_pressure_plate"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

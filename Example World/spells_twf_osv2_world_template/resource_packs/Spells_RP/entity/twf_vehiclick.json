@@ -1,0 +1,32 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_vehiclick.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_vehiclick"
+            }, 
+            "identifier": "twf:twf_vehiclick", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {
+                "animate": [
+                    "base_pose"
+                ]
+            }, 
+            "spawn_egg": {
+                "base_color": "#B22424", 
+                "overlay_color": "#038190"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_vehiclick"
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_melon_block_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:melon_block"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

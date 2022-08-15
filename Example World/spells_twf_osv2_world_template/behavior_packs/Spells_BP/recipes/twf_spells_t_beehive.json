@@ -1,0 +1,32 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_beehive_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_v"
+            }
+        ], 
+        "result": {
+            "item": "beehive"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

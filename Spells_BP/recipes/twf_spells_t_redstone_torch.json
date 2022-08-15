@@ -1,0 +1,42 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_redstone_torch_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:stone"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:redstone_torch"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

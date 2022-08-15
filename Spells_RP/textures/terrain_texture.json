@@ -1,0 +1,239 @@
+{
+    "num_mip_levels": 4, 
+    "padding": 8, 
+    "resource_pack_name": "TWF_ProcPack44557_RP", 
+    "texture_data": {
+        "lavender_0_0": {
+            "textures": "textures/blocks/lavender_0_0/a"
+        }, 
+        "lavender_0_1": {
+            "textures": "textures/blocks/lavender_0_1/a"
+        }, 
+        "lavender_0_2": {
+            "textures": "textures/blocks/lavender_0_2/a"
+        }, 
+        "lavender_1_0": {
+            "textures": "textures/blocks/lavender_1_0/a"
+        }, 
+        "lavender_1_1": {
+            "textures": "textures/blocks/lavender_1_1/a"
+        }, 
+        "lavender_1_2": {
+            "textures": "textures/blocks/lavender_1_2/a"
+        }, 
+        "lavender_2_0": {
+            "textures": "textures/blocks/lavender_2_0/a"
+        }, 
+        "lavender_2_1": {
+            "textures": "textures/blocks/lavender_2_1/a"
+        }, 
+        "lavender_2_2": {
+            "textures": "textures/blocks/lavender_2_2/a"
+        },
+        "oil_0_0": {
+            "textures": "textures/blocks/oil_0_0/a"
+        }, 
+        "oil_0_1": {
+            "textures": "textures/blocks/oil_0_1/a"
+        }, 
+        "oil_0_2": {
+            "textures": "textures/blocks/oil_0_2/a"
+        }, 
+        "oil_1_0": {
+            "textures": "textures/blocks/oil_1_0/a"
+        }, 
+        "oil_1_1": {
+            "textures": "textures/blocks/oil_1_1/a"
+        }, 
+        "oil_1_2": {
+            "textures": "textures/blocks/oil_1_2/a"
+        }, 
+        "oil_2_0": {
+            "textures": "textures/blocks/oil_2_0/a"
+        }, 
+        "oil_2_1": {
+            "textures": "textures/blocks/oil_2_1/a"
+        }, 
+        "oil_2_2": {
+            "textures": "textures/blocks/oil_2_2/a"
+        },
+        "twf_output4638028600": {
+            "textures": "textures/blocks/twf_output4638028600/a"
+        },        
+        "purtal_0_0": {
+            "textures": "textures/blocks/purtal_0_0/a"
+        }, 
+        "purtal_0_1": {
+            "textures": "textures/blocks/purtal_0_1/a"
+        }, 
+        "purtal_0_2": {
+            "textures": "textures/blocks/purtal_0_2/a"
+        }, 
+        "purtal_1_0": {
+            "textures": "textures/blocks/purtal_1_0/a"
+        }, 
+        "purtal_1_1": {
+            "textures": "textures/blocks/purtal_1_1/a"
+        }, 
+        "purtal_1_2": {
+            "textures": "textures/blocks/purtal_1_2/a"
+        }, 
+        "purtal_2_0": {
+            "textures": "textures/blocks/purtal_2_0/a"
+        }, 
+        "purtal_2_1": {
+            "textures": "textures/blocks/purtal_2_1/a"
+        }, 
+        "purtal_2_2": {
+            "textures": "textures/blocks/purtal_2_2/a"
+        },        
+        "twf_output7564670460": {
+            "textures": "textures/blocks/twf_output7564670460/a"
+        },        
+        "twf_output8946837583": {
+            "textures": "textures/blocks/twf_output8946837583/a"
+        },
+        "twf_output5640119400": {
+            "textures": "textures/blocks/twf_output5640119400/a"
+        },        
+        "twf_output4424124846": {
+            "textures": "textures/blocks/twf_output4424124846/a"
+        },
+        "eyebase": {
+            "textures": "textures/blocks/eyebase/a"
+        }, 
+        "eyefourframes": {
+            "textures": "textures/blocks/eyefourframes/a"
+        }, 
+        "eyefourframes1": {
+            "textures": "textures/blocks/eyefourframes1/a"
+        }, 
+        "eyefourframes2": {
+            "textures": "textures/blocks/eyefourframes2/a"
+        }, 
+        "eyefourframes3": {
+            "textures": "textures/blocks/eyefourframes3/a"
+        }, 
+        "eyetwoframes": {
+            "textures": "textures/blocks/eyetwoframes/a"
+        }, 
+        "eyetwoframes1": {
+            "textures": "textures/blocks/eyetwoframes1/a"
+        },
+        "twf_twf_tentacle_a": {
+            "textures": "textures/blocks/twf_twf_tentacle_a/a"
+        },
+        "twf_twf_block": {
+            "textures": "textures/blocks/twf_block/a"
+        },        
+        "underhall_pu_0_0": {
+            "textures": "textures/blocks/underhall_pu_0_0/a"
+        }, 
+        "underhall_pu_0_1": {
+            "textures": "textures/blocks/underhall_pu_0_1/a"
+        }, 
+        "underhall_pu_0_2": {
+            "textures": "textures/blocks/underhall_pu_0_2/a"
+        }, 
+        "underhall_pu_0_3": {
+            "textures": "textures/blocks/underhall_pu_0_3/a"
+        }, 
+        "underhall_pu_0_4": {
+            "textures": "textures/blocks/underhall_pu_0_4/a"
+        }, 
+        "underhall_pu_0_5": {
+            "textures": "textures/blocks/underhall_pu_0_5/a"
+        }, 
+        "underhall_pu_1_0": {
+            "textures": "textures/blocks/underhall_pu_1_0/a"
+        }, 
+        "underhall_pu_1_1": {
+            "textures": "textures/blocks/underhall_pu_1_1/a"
+        }, 
+        "underhall_pu_1_2": {
+            "textures": "textures/blocks/underhall_pu_1_2/a"
+        }, 
+        "underhall_pu_1_3": {
+            "textures": "textures/blocks/underhall_pu_1_3/a"
+        }, 
+        "underhall_pu_1_4": {
+            "textures": "textures/blocks/underhall_pu_1_4/a"
+        }, 
+        "underhall_pu_1_5": {
+            "textures": "textures/blocks/underhall_pu_1_5/a"
+        }, 
+        "underhall_pu_2_0": {
+            "textures": "textures/blocks/underhall_pu_2_0/a"
+        }, 
+        "underhall_pu_2_1": {
+            "textures": "textures/blocks/underhall_pu_2_1/a"
+        }, 
+        "underhall_pu_2_2": {
+            "textures": "textures/blocks/underhall_pu_2_2/a"
+        }, 
+        "underhall_pu_2_3": {
+            "textures": "textures/blocks/underhall_pu_2_3/a"
+        }, 
+        "underhall_pu_2_4": {
+            "textures": "textures/blocks/underhall_pu_2_4/a"
+        }, 
+        "underhall_pu_2_5": {
+            "textures": "textures/blocks/underhall_pu_2_5/a"
+        }, 
+        "underhall_pu_3_0": {
+            "textures": "textures/blocks/underhall_pu_3_0/a"
+        }, 
+        "underhall_pu_3_1": {
+            "textures": "textures/blocks/underhall_pu_3_1/a"
+        }, 
+        "underhall_pu_3_2": {
+            "textures": "textures/blocks/underhall_pu_3_2/a"
+        }, 
+        "underhall_pu_3_3": {
+            "textures": "textures/blocks/underhall_pu_3_3/a"
+        }, 
+        "underhall_pu_3_4": {
+            "textures": "textures/blocks/underhall_pu_3_4/a"
+        }, 
+        "underhall_pu_3_5": {
+            "textures": "textures/blocks/underhall_pu_3_5/a"
+        }, 
+        "underhall_pu_4_0": {
+            "textures": "textures/blocks/underhall_pu_4_0/a"
+        }, 
+        "underhall_pu_4_1": {
+            "textures": "textures/blocks/underhall_pu_4_1/a"
+        }, 
+        "underhall_pu_4_2": {
+            "textures": "textures/blocks/underhall_pu_4_2/a"
+        }, 
+        "underhall_pu_4_3": {
+            "textures": "textures/blocks/underhall_pu_4_3/a"
+        }, 
+        "underhall_pu_4_4": {
+            "textures": "textures/blocks/underhall_pu_4_4/a"
+        }, 
+        "underhall_pu_4_5": {
+            "textures": "textures/blocks/underhall_pu_4_5/a"
+        }, 
+        "underhall_pu_5_0": {
+            "textures": "textures/blocks/underhall_pu_5_0/a"
+        }, 
+        "underhall_pu_5_1": {
+            "textures": "textures/blocks/underhall_pu_5_1/a"
+        }, 
+        "underhall_pu_5_2": {
+            "textures": "textures/blocks/underhall_pu_5_2/a"
+        }, 
+        "underhall_pu_5_3": {
+            "textures": "textures/blocks/underhall_pu_5_3/a"
+        }, 
+        "underhall_pu_5_4": {
+            "textures": "textures/blocks/underhall_pu_5_4/a"
+        }, 
+        "underhall_pu_5_5": {
+            "textures": "textures/blocks/underhall_pu_5_5/a"
+        }
+    }, 
+    "texture_name": "atlas.terrain"
+}

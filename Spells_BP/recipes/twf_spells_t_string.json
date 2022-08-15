@@ -1,0 +1,34 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_string_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_g"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:string"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

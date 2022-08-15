@@ -1,0 +1,38 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_dragonfly.ground",
+                "fly": "animation.twf_dragonfly.flight"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_dragonfly"
+            }, 
+            "identifier": "twf:dragonfly", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {
+                "animate": [
+                    {
+                        "base_pose": "query.is_on_ground"
+                    },
+                    {
+                        "fly": "!query.is_on_ground"
+                    }
+                ]
+            }, 
+            "spawn_egg": {
+                "base_color": "#927557", 
+                "overlay_color": "#C70B49"
+            }, 
+			"textures": {
+                "default": "textures/entities/dragonfly"
+			}
+        }
+    }
+}

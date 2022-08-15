@@ -1,0 +1,37 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_banner12_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "data": 17, 
+                "item": "minecraft:dye"
+            }
+        ], 
+        "result": {
+            "data": 12, 
+            "item": "minecraft:banner"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

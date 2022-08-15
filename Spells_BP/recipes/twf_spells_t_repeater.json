@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_repeater_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:repeater"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

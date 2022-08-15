@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_3"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            },
+            {
+                "item": "twf:spells_lower_e"
+            },
+            {
+                "item": "twf:spells_lower_e"
+            }            
+        ], 
+        "result": {
+            "item": "twf:spells_3"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_concrete_powder13_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }, 
+            {
+                "data": 2, 
+                "item": "minecraft:dye"
+            }
+        ], 
+        "result": {
+            "data": 13, 
+            "item": "minecraft:concrete_powder"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

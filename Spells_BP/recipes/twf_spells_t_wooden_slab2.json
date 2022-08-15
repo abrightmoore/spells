@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_wooden_slab2_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "data": 2, 
+                "item": "minecraft:planks"
+            }
+        ], 
+        "result": {
+            "data": 2, 
+            "item": "minecraft:wooden_slab"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

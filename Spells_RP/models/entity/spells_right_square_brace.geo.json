@@ -1,0 +1,116 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "name": "mceu_cube_1", 
+                            "origin": [
+                                0, 
+                                9, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                6, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_2", 
+                            "origin": [
+                                0, 
+                                7, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                2, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_5", 
+                            "origin": [
+                                0, 
+                                3, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                4, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_6", 
+                            "origin": [
+                                -2, 
+                                15, 
+                                0
+                            ], 
+                            "size": [
+                                3, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_11", 
+                            "origin": [
+                                -2, 
+                                3, 
+                                0
+                            ], 
+                            "size": [
+                                2, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "bb_main", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.spells_right_square_brace", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 21, 
+                "visible_bounds_offset": [
+                    0, 
+                    0.25, 
+                    0
+                ], 
+                "visible_bounds_width": 3
+            }
+        }
+    ]
+}

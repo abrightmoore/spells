@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_slime_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:slime"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

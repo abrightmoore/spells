@@ -1,0 +1,422 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "name": "mceu_cube_1", 
+                            "origin": [
+                                1, 
+                                10, 
+                                0
+                            ], 
+                            "size": [
+                                2, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_2", 
+                            "origin": [
+                                2, 
+                                8, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                2, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_3", 
+                            "origin": [
+                                -3, 
+                                13, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                2, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_4", 
+                            "origin": [
+                                -2, 
+                                12, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_5", 
+                            "origin": [
+                                0, 
+                                11, 
+                                0
+                            ], 
+                            "size": [
+                                2, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_6", 
+                            "origin": [
+                                0, 
+                                5, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_7", 
+                            "origin": [
+                                -4, 
+                                8, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                2, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_8", 
+                            "origin": [
+                                -3, 
+                                6, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_9", 
+                            "origin": [
+                                2, 
+                                14, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_10", 
+                            "origin": [
+                                1, 
+                                14, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_11", 
+                            "origin": [
+                                0, 
+                                15, 
+                                0
+                            ], 
+                            "size": [
+                                2, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_12", 
+                            "origin": [
+                                -4, 
+                                7, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_14", 
+                            "origin": [
+                                -3, 
+                                12, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_18", 
+                            "origin": [
+                                -2, 
+                                14, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_19", 
+                            "origin": [
+                                -2, 
+                                11, 
+                                0
+                            ], 
+                            "size": [
+                                2, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_20", 
+                            "origin": [
+                                1, 
+                                6, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_23", 
+                            "origin": [
+                                2, 
+                                13, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_26", 
+                            "origin": [
+                                -2, 
+                                15, 
+                                0
+                            ], 
+                            "size": [
+                                2, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_27", 
+                            "origin": [
+                                2, 
+                                12, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_28", 
+                            "origin": [
+                                1, 
+                                12, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_30", 
+                            "origin": [
+                                2, 
+                                7, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_31", 
+                            "origin": [
+                                -2, 
+                                5, 
+                                0
+                            ], 
+                            "size": [
+                                2, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "mceu_cube_32", 
+                            "origin": [
+                                -3, 
+                                10, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                1, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "bb_main", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.spells_8", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 21, 
+                "visible_bounds_offset": [
+                    0, 
+                    0.25, 
+                    0
+                ], 
+                "visible_bounds_width": 5
+            }
+        }
+    ]
+}

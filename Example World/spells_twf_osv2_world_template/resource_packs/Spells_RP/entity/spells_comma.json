@@ -1,0 +1,32 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.model.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.spells_comma"
+            }, 
+            "identifier": "twf:spells_comma", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {
+                "animate": [
+                    "base_pose"
+                ]
+            }, 
+            "spawn_egg": {
+                "base_color": "#FDFDFD", 
+                "overlay_color": "#E35BCE"
+            }, 
+            "textures": {
+                "default": "textures/entities/spells_comma"
+            }
+        }
+    }
+}

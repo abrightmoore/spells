@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_cobblestone_wall3_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }, 
+            {
+                "data": 3, 
+                "item": "minecraft:stone"
+            }
+        ], 
+        "result": {
+            "data": 3, 
+            "item": "minecraft:cobblestone_wall"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

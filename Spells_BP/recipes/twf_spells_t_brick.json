@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_brick_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_k"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:brick"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

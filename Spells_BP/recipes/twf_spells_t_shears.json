@@ -1,0 +1,32 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_shears_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:shears"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

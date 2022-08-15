@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10", 
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "twf_output8946837583_item", 
+            "minecraft:render_offsets": "tools"
+        }, 
+        "description": {
+            "category": "Nature", 
+            "identifier": "twf:output8946837583_item"
+        }
+    }
+}

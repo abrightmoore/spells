@@ -1,0 +1,36 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_dark_oak_door_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_k"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_o"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:dark_oak_door"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_stained_glass_pane2_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_g"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "data": 13, 
+                "item": "minecraft:dye"
+            }
+        ], 
+        "result": {
+            "data": 2, 
+            "item": "minecraft:stained_glass_pane"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

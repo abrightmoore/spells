@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_leather_leggings_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_g"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:leather"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:leather_leggings"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

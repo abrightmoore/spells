@@ -1,0 +1,47 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_flint_and_steel_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_f"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:flint_and_steel"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_pumpkin_pie_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_k"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "item": "twf:spells_lower_u"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:pumpkin_pie"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

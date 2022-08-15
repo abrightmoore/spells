@@ -1,0 +1,44 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_smooth_basalt_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:smooth_basalt"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

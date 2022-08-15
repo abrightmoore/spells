@@ -1,0 +1,37 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_acacia_door_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:acacia_door"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

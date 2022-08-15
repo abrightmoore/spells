@@ -1,0 +1,37 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_jukebox_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_k"
+            }, 
+            {
+                "item": "twf:spells_lower_j"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_u"
+            }, 
+            {
+                "item": "twf:spells_lower_x"
+            }
+        ], 
+        "result": {
+            "item": "jukebox"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

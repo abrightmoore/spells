@@ -1,0 +1,125 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -4, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                8, 
+                                9, 
+                                0.01
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -4, 
+                                0, 
+                                0
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                -90, 
+                                0
+                            ], 
+                            "size": [
+                                8, 
+                                9, 
+                                0.01
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -4, 
+                                0, 
+                                0
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                -180, 
+                                -45, 
+                                180
+                            ], 
+                            "size": [
+                                8, 
+                                9, 
+                                0.01
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -4, 
+                                0, 
+                                0
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                -180, 
+                                45, 
+                                180
+                            ], 
+                            "size": [
+                                8, 
+                                9, 
+                                0.01
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "bone", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.twf_geo_f", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 2.5, 
+                "visible_bounds_offset": [
+                    0, 
+                    0.75, 
+                    0
+                ], 
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

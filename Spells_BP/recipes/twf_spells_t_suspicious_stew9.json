@@ -1,0 +1,47 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_suspicious_stew9_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "count": 4, 
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_u"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }
+        ], 
+        "result": {
+            "data": 9, 
+            "item": "minecraft:suspicious_stew"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

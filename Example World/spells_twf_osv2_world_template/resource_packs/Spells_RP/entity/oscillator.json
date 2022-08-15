@@ -1,0 +1,40 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "life_controller": "controller.animation.oscillator.life",
+                
+                "base_pose": "animation.oscillator.base_pose",
+                "milked": "animation.oscillator.milked"
+            }, 
+            "geometry": {
+                "default": "geometry.oscillator"
+            }, 
+            "identifier": "twf:oscillator", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {
+                
+                "animate": [ 
+                    { "base_pose": "!query.has_rider"
+                    },
+                    {
+                        "milked": "query.has_rider"
+                    }
+                ]
+            },
+            "spawn_egg": {
+                "base_color": "#8C44C9", 
+                "overlay_color": "#08380B"
+            }, 
+            "textures": {
+                "default": "textures/entities/oscillator"
+            }
+        }
+    }
+}

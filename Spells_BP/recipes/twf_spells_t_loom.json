@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_loom_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_o"
+            }
+        ], 
+        "result": {
+            "item": "loom"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

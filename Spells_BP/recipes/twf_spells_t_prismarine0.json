@@ -1,0 +1,43 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_prismarine0_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }
+        ], 
+        "result": {
+            "data": 0, 
+            "item": "minecraft:prismarine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

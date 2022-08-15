@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_blackstone_wall_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:blackstone"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:blackstone_wall"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

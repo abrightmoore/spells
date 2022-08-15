@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_blue_ice_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "data": 18, 
+                "item": "minecraft:dye"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:blue_ice"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

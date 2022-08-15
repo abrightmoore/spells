@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_piston1_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "data": 1, 
+            "item": "piston"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
