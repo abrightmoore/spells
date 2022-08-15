@@ -1,0 +1,35 @@
+{
+    "pools": [
+        {
+            "conditions": [
+                {
+                    "condition": "killed_by_player_or_pets"
+                }
+            ], 
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 1, 
+                                "min": 0
+                            }, 
+                            "function": "set_count"
+                        }, 
+                        {
+                            "count": {
+                                "max": 1, 
+                                "min": 0
+                            }, 
+                            "function": "looting_enchant"
+                        }
+                    ], 
+                    "name": "twf:spells_percent", 
+                    "type": "item", 
+                    "weight": 1
+                }
+            ], 
+            "rolls": 1
+        }
+    ]
+}

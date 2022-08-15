@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_dirt1_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "data": 1, 
+            "item": "minecraft:dirt"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

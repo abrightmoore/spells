@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_packed_ice_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_k"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:packed_ice"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

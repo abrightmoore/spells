@@ -1,0 +1,45 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_soul_lantern_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_u"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:soul_lantern"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

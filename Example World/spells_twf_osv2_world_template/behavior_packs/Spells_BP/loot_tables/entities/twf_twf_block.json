@@ -1,0 +1,35 @@
+{
+    "pools": [
+        {
+            "conditions": [
+                {
+                    "condition": "killed_by_player_or_pets"
+                }
+            ], 
+            "entries": [
+                {
+                    "functions": [
+                        {
+                            "count": {
+                                "max": 3, 
+                                "min": 1
+                            }, 
+                            "function": "set_count"
+                        }, 
+                        {
+                            "count": {
+                                "max": 1, 
+                                "min": 0
+                            }, 
+                            "function": "looting_enchant"
+                        }
+                    ], 
+                    "name": "twf:twf_block_item", 
+                    "type": "item", 
+                    "weight": 1
+                }
+            ], 
+            "rolls": 1
+        }
+    ]
+}

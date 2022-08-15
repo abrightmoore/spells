@@ -1,0 +1,32 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.model.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.spells_circumflex"
+            }, 
+            "identifier": "twf:spells_circumflex", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {
+                "animate": [
+                    "base_pose"
+                ]
+            }, 
+            "spawn_egg": {
+                "base_color": "#FDFDFD", 
+                "overlay_color": "#1582C6"
+            }, 
+            "textures": {
+                "default": "textures/entities/spells_circumflex"
+            }
+        }
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "name": "root", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }, 
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -3, 
+                                0, 
+                                3
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                3
+                            ], 
+                            "rotation": [
+                                -45, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -6, 
+                                0, 
+                                0
+                            ], 
+                            "pivot": [
+                                -3, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                -90, 
+                                -45
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -3, 
+                                0, 
+                                -4
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                -3
+                            ], 
+                            "rotation": [
+                                45, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "pivot": [
+                                3, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                90, 
+                                45
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "bone2", 
+                    "parent": "root", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    "rotation": [
+                        0, 
+                        -45, 
+                        0
+                    ]
+                }, 
+                {
+                    "cubes": [
+                        {
+                            "origin": [
+                                -3, 
+                                0, 
+                                3
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                3
+                            ], 
+                            "rotation": [
+                                -45, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -6, 
+                                0, 
+                                0
+                            ], 
+                            "pivot": [
+                                -3, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                -90, 
+                                -45
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                -3, 
+                                0, 
+                                -4
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                -3
+                            ], 
+                            "rotation": [
+                                45, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "origin": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "pivot": [
+                                3, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                90, 
+                                45
+                            ], 
+                            "size": [
+                                6, 
+                                7, 
+                                1
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "bone", 
+                    "parent": "root", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        -3
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.twf_geo_i", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 1.5, 
+                "visible_bounds_offset": [
+                    0, 
+                    0.25, 
+                    0
+                ], 
+                "visible_bounds_width": 3
+            }
+        }
+    ]
+}

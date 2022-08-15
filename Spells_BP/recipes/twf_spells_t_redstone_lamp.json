@@ -1,0 +1,41 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_redstone_lamp_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:stone"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:redstone_lamp"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

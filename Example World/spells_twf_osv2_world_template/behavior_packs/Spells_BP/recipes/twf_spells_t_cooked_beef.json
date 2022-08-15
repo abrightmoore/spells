@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_cooked_beef_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_f"
+            }, 
+            {
+                "item": "twf:spells_lower_k"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_o"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:cooked_beef"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

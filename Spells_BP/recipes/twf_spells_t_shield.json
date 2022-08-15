@@ -1,0 +1,34 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_shield_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }
+        ], 
+        "result": {
+            "item": "shield"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

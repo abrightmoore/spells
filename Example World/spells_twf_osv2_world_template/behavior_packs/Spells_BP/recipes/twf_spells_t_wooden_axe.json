@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_wooden_axe_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_x"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "minecraft:planks"
+            }
+        ], 
+        "result": {
+            "item": "wooden_axe"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

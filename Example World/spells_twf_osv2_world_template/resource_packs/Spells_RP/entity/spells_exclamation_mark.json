@@ -1,0 +1,32 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.model.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.spells_exclamation_mark"
+            }, 
+            "identifier": "twf:spells_exclamation_mark", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {
+                "animate": [
+                    "base_pose"
+                ]
+            }, 
+            "spawn_egg": {
+                "base_color": "#FDFDFD", 
+                "overlay_color": "#1F2BFB"
+            }, 
+            "textures": {
+                "default": "textures/entities/spells_exclamation_mark"
+            }
+        }
+    }
+}

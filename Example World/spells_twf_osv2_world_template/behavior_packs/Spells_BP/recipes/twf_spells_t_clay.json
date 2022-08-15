@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_clay_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_y"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:clay"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

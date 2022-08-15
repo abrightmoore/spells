@@ -1,0 +1,46 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_hardened_clay_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_y"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:hardened_clay"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

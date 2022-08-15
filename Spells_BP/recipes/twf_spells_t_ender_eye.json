@@ -1,0 +1,32 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_ender_eye_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_y"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "count": 4, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:ender_eye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

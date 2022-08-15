@@ -1,0 +1,33 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_stone_slab6_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:stone"
+            }
+        ], 
+        "result": {
+            "data": 6, 
+            "item": "minecraft:stone_slab"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

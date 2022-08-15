@@ -1,0 +1,45 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_waxed_copper_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }, 
+            {
+                "item": "twf:spells_lower_x"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:waxed_copper"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_noteblock_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }
+        ], 
+        "result": {
+            "item": "noteblock"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"animations": {
+		"animation.twf_block.base_pose": {
+			"loop": true,
+			"animation_length": 1.8,
+			"blend_weight": "0.1",
+			"bones": {
+				"bone": {
+					"rotation": ["math.sin(query.anim_time*200)*720", "math.sin(query.anim_time*200)*720", "math.sin(query.anim_time*200)*720"]
+				}
+			}
+		}
+	},
+	"format_version": "1.8.0"
+}

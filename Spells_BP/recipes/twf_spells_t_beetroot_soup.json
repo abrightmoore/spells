@@ -1,0 +1,43 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_beetroot_soup_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "count": 3, 
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_u"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_t"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:beetroot_soup"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_dye12_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_y"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }
+        ], 
+        "result": {
+            "data": 12, 
+            "item": "minecraft:dye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

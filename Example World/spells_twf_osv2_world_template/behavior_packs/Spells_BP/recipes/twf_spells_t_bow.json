@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_bow_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }, 
+            {
+                "item": "twf:spells_lower_o"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:bow"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

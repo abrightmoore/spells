@@ -1,0 +1,32 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_iron_bars_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:iron_nugget"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:iron_bars"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_yellow_candle_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "data": 11, 
+                "item": "minecraft:dye"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:yellow_candle"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

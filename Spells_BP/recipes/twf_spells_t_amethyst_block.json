@@ -1,0 +1,38 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_amethyst_block_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_h"
+            }, 
+            {
+                "item": "twf:spells_lower_m"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "item": "twf:spells_lower_y"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:amethyst_block"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

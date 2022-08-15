@@ -1,0 +1,36 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_warped_fence_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_n"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_f"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:warped_planks"
+            }, 
+            {
+                "item": "minecraft:planks"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:warped_fence"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

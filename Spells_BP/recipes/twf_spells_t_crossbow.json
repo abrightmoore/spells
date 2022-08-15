@@ -1,0 +1,36 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_crossbow_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_o"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:crossbow"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

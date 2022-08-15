@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:twf_tentacle_a_from_twf_tentacle_a_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:twf_tentacle_a_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:twf_tentacle_a"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

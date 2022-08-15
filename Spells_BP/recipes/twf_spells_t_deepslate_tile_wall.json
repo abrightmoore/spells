@@ -1,0 +1,47 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_deepslate_tile_wall_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "count": 4, 
+                "item": "twf:spells_lower_e"
+            }, 
+            {
+                "item": "twf:spells_lower_d"
+            }, 
+            {
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "count": 4, 
+                "item": "twf:spells_lower_l"
+            }, 
+            {
+                "item": "twf:spells_lower_p"
+            }, 
+            {
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "item": "twf:spells_lower_w"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:deepslate_tile_wall"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

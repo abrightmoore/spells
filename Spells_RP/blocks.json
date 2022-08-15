@@ -1,0 +1,315 @@
+{
+    "format_version": [
+        1, 
+        16, 
+        0
+    ],
+    "twf:lavender_0_0": {
+        "sound": "metal", 
+        "textures": "lavender_0_0"
+    }, 
+    "twf:lavender_0_1": {
+        "sound": "metal", 
+        "textures": "lavender_0_1"
+    }, 
+    "twf:lavender_0_2": {
+        "sound": "metal", 
+        "textures": "lavender_0_2"
+    }, 
+    "twf:lavender_1_0": {
+        "sound": "metal", 
+        "textures": "lavender_1_0"
+    }, 
+    "twf:lavender_1_1": {
+        "sound": "metal", 
+        "textures": "lavender_1_1"
+    }, 
+    "twf:lavender_1_2": {
+        "sound": "metal", 
+        "textures": "lavender_1_2"
+    }, 
+    "twf:lavender_2_0": {
+        "sound": "metal", 
+        "textures": "lavender_2_0"
+    }, 
+    "twf:lavender_2_1": {
+        "sound": "metal", 
+        "textures": "lavender_2_1"
+    }, 
+    "twf:lavender_2_2": {
+        "sound": "metal", 
+        "textures": "lavender_2_2"
+    },    
+    "twf:oil_0_0": {
+        "sound": "metal", 
+        "textures": "oil_0_0"
+    }, 
+    "twf:oil_0_1": {
+        "sound": "metal", 
+        "textures": "oil_0_1"
+    }, 
+    "twf:oil_0_2": {
+        "sound": "metal", 
+        "textures": "oil_0_2"
+    }, 
+    "twf:oil_1_0": {
+        "sound": "metal", 
+        "textures": "oil_1_0"
+    }, 
+    "twf:oil_1_1": {
+        "sound": "metal", 
+        "textures": "oil_1_1"
+    }, 
+    "twf:oil_1_2": {
+        "sound": "metal", 
+        "textures": "oil_1_2"
+    }, 
+    "twf:oil_2_0": {
+        "sound": "metal", 
+        "textures": "oil_2_0"
+    }, 
+    "twf:oil_2_1": {
+        "sound": "metal", 
+        "textures": "oil_2_1"
+    }, 
+    "twf:oil_2_2": {
+        "sound": "metal", 
+        "textures": "oil_2_2"
+    },
+    "twf:output4638028600": {
+        "sound": "metal", 
+        "textures": "twf_output4638028600"
+    },    
+    "twf:output7564670460": {
+        "sound": "metal", 
+        "textures": "twf_output7564670460"
+    },    
+    "twf:output8946837583": {
+        "sound": "metal", 
+        "textures": "twf_output8946837583"
+    },
+    "twf:output5640119400": {
+        "sound": "metal", 
+        "textures": "twf_output5640119400"
+    },    
+    "twf:output4424124846": {
+        "sound": "metal", 
+        "textures": "twf_output4424124846"
+    },    
+    "twf:eyebase": {
+        "sound": "metal", 
+        "textures": "eyebase"
+    }, 
+    "twf:eyefourframes": {
+        "sound": "metal", 
+        "textures": "eyefourframes"
+    }, 
+    "twf:eyefourframes1": {
+        "sound": "metal", 
+        "textures": "eyefourframes1"
+    }, 
+    "twf:eyefourframes2": {
+        "sound": "metal", 
+        "textures": "eyefourframes2"
+    }, 
+    "twf:eyefourframes3": {
+        "sound": "metal", 
+        "textures": "eyefourframes3"
+    }, 
+    "twf:eyetwoframes": {
+        "sound": "metal", 
+        "textures": "eyetwoframes"
+    }, 
+    "twf:eyetwoframes1": {
+        "sound": "metal", 
+        "textures": "eyetwoframes1"
+    },
+    "twf:twf_tentacle_a": {
+        "sound": "metal", 
+        "textures": "twf_twf_tentacle_a"
+    },
+    "twf:purtal_0_0": {
+        "sound": "metal", 
+        "textures": "purtal_0_0"
+    }, 
+    "twf:purtal_0_1": {
+        "sound": "metal", 
+        "textures": "purtal_0_1"
+    }, 
+    "twf:purtal_0_2": {
+        "sound": "metal", 
+        "textures": "purtal_0_2"
+    }, 
+    "twf:purtal_1_0": {
+        "sound": "metal", 
+        "textures": "purtal_1_0"
+    }, 
+    "twf:purtal_1_1": {
+        "sound": "metal", 
+        "textures": "purtal_1_1"
+    }, 
+    "twf:purtal_1_2": {
+        "sound": "metal", 
+        "textures": "purtal_1_2"
+    }, 
+    "twf:purtal_2_0": {
+        "sound": "metal", 
+        "textures": "purtal_2_0"
+    }, 
+    "twf:purtal_2_1": {
+        "sound": "metal", 
+        "textures": "purtal_2_1"
+    }, 
+    "twf:purtal_2_2": {
+        "sound": "metal", 
+        "textures": "purtal_2_2"
+    },    
+    "twf:twf_block": {
+        "sound": "metal", 
+        "textures": "twf_block"
+    },
+        "twf:underhall_pu_0_0": {
+        "sound": "metal", 
+        "textures": "underhall_pu_0_0"
+    }, 
+    "twf:underhall_pu_0_1": {
+        "sound": "metal", 
+        "textures": "underhall_pu_0_1"
+    }, 
+    "twf:underhall_pu_0_2": {
+        "sound": "metal", 
+        "textures": "underhall_pu_0_2"
+    }, 
+    "twf:underhall_pu_0_3": {
+        "sound": "metal", 
+        "textures": "underhall_pu_0_3"
+    }, 
+    "twf:underhall_pu_0_4": {
+        "sound": "metal", 
+        "textures": "underhall_pu_0_4"
+    }, 
+    "twf:underhall_pu_0_5": {
+        "sound": "metal", 
+        "textures": "underhall_pu_0_5"
+    }, 
+    "twf:underhall_pu_1_0": {
+        "sound": "metal", 
+        "textures": "underhall_pu_1_0"
+    }, 
+    "twf:underhall_pu_1_1": {
+        "sound": "metal", 
+        "textures": "underhall_pu_1_1"
+    }, 
+    "twf:underhall_pu_1_2": {
+        "sound": "metal", 
+        "textures": "underhall_pu_1_2"
+    }, 
+    "twf:underhall_pu_1_3": {
+        "sound": "metal", 
+        "textures": "underhall_pu_1_3"
+    }, 
+    "twf:underhall_pu_1_4": {
+        "sound": "metal", 
+        "textures": "underhall_pu_1_4"
+    }, 
+    "twf:underhall_pu_1_5": {
+        "sound": "metal", 
+        "textures": "underhall_pu_1_5"
+    }, 
+    "twf:underhall_pu_2_0": {
+        "sound": "metal", 
+        "textures": "underhall_pu_2_0"
+    }, 
+    "twf:underhall_pu_2_1": {
+        "sound": "metal", 
+        "textures": "underhall_pu_2_1"
+    }, 
+    "twf:underhall_pu_2_2": {
+        "sound": "metal", 
+        "textures": "underhall_pu_2_2"
+    }, 
+    "twf:underhall_pu_2_3": {
+        "sound": "metal", 
+        "textures": "underhall_pu_2_3"
+    }, 
+    "twf:underhall_pu_2_4": {
+        "sound": "metal", 
+        "textures": "underhall_pu_2_4"
+    }, 
+    "twf:underhall_pu_2_5": {
+        "sound": "metal", 
+        "textures": "underhall_pu_2_5"
+    }, 
+    "twf:underhall_pu_3_0": {
+        "sound": "metal", 
+        "textures": "underhall_pu_3_0"
+    }, 
+    "twf:underhall_pu_3_1": {
+        "sound": "metal", 
+        "textures": "underhall_pu_3_1"
+    }, 
+    "twf:underhall_pu_3_2": {
+        "sound": "metal", 
+        "textures": "underhall_pu_3_2"
+    }, 
+    "twf:underhall_pu_3_3": {
+        "sound": "metal", 
+        "textures": "underhall_pu_3_3"
+    }, 
+    "twf:underhall_pu_3_4": {
+        "sound": "metal", 
+        "textures": "underhall_pu_3_4"
+    }, 
+    "twf:underhall_pu_3_5": {
+        "sound": "metal", 
+        "textures": "underhall_pu_3_5"
+    }, 
+    "twf:underhall_pu_4_0": {
+        "sound": "metal", 
+        "textures": "underhall_pu_4_0"
+    }, 
+    "twf:underhall_pu_4_1": {
+        "sound": "metal", 
+        "textures": "underhall_pu_4_1"
+    }, 
+    "twf:underhall_pu_4_2": {
+        "sound": "metal", 
+        "textures": "underhall_pu_4_2"
+    }, 
+    "twf:underhall_pu_4_3": {
+        "sound": "metal", 
+        "textures": "underhall_pu_4_3"
+    }, 
+    "twf:underhall_pu_4_4": {
+        "sound": "metal", 
+        "textures": "underhall_pu_4_4"
+    }, 
+    "twf:underhall_pu_4_5": {
+        "sound": "metal", 
+        "textures": "underhall_pu_4_5"
+    }, 
+    "twf:underhall_pu_5_0": {
+        "sound": "metal", 
+        "textures": "underhall_pu_5_0"
+    }, 
+    "twf:underhall_pu_5_1": {
+        "sound": "metal", 
+        "textures": "underhall_pu_5_1"
+    }, 
+    "twf:underhall_pu_5_2": {
+        "sound": "metal", 
+        "textures": "underhall_pu_5_2"
+    }, 
+    "twf:underhall_pu_5_3": {
+        "sound": "metal", 
+        "textures": "underhall_pu_5_3"
+    }, 
+    "twf:underhall_pu_5_4": {
+        "sound": "metal", 
+        "textures": "underhall_pu_5_4"
+    }, 
+    "twf:underhall_pu_5_5": {
+        "sound": "metal", 
+        "textures": "underhall_pu_5_5"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spells_t_stone_brick_stairs_from_letters"
+        }, 
+        "ingredients": [
+            {
+                "item": "twf:spells_lower_a"
+            }, 
+            {
+                "item": "twf:spells_lower_c"
+            }, 
+            {
+                "item": "twf:spells_lower_b"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_i"
+            }, 
+            {
+                "item": "twf:spells_lower_k"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_s"
+            }, 
+            {
+                "count": 2, 
+                "item": "twf:spells_lower_r"
+            }, 
+            {
+                "item": "twf:spells_lower_t"
+            }, 
+            {
+                "data": 0, 
+                "item": "minecraft:stone"
+            }
+        ], 
+        "result": {
+            "item": "minecraft:stone_brick_stairs"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
