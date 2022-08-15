@@ -15,3 +15,5 @@ This repository is a public and permissive copy of the world source files, inten
 # how to contribute
 
 Spells can be extended with more crafting recipes. You can also consider creating derivative puzzle worlds using the Spells system.
+
+I have elected to open the project up to the community. Please note the licensing conditions, and as a courtesy I would be delighted to discuss commercial usage arrangements should you decide to include this system in your work.
