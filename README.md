@@ -31,4 +31,4 @@ Yes! Knock yourself out. It's great fun.
 
 Q. I want to sell a world I made using the Spells system on the Marketplace, or via some other commercial channel. Can I?
 
-Yes you can. You need to abide by the license, which requires you to make your source available for other people to use. You can do that by contributing your changes to the project, for example. You can also help support the author financially through the magic of [PayPal](http://PayPal.me/abrightmoore)
+Yes you can. You need to abide by the license. You can also help support the author financially through the magic of [PayPal](http://PayPal.me/abrightmoore)
